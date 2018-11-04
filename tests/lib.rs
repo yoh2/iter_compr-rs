@@ -1,4 +1,4 @@
-#![feature(generators, generator_trait)]
+#![feature(generators)]
 
 #[macro_use]
 extern crate iter_compr;
