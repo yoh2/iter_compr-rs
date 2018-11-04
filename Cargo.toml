@@ -1,0 +1,7 @@
+[package]
+name = "iter_compr"
+version = "0.1.0"
+authors = ["yoh2 <yoh2.sdj@gmail.com>"]
+maintenance = { status = "experimental" }
+
+[dependencies]
